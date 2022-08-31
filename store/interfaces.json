@@ -1,0 +1,7 @@
+{
+  "list-context.prod-list-wrapper-personalize":{
+    "component":"ProductListWrapper",
+    "allowed": ["product-summary"],
+    "composition": "children"
+  }
+}
