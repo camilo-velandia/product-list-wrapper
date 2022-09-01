@@ -1,5 +1,5 @@
 {
-  "vendor": "easycl",
+  "vendor": "easyclqa",
   "name": "prod-list-wrapper-personalize",
   "version": "0.0.1",
   "title": "product list context wrapper to aws-personalize",
